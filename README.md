@@ -1,2 +1,2 @@
 # imagej
-Plugins for Imagej at https://imagej.nih.gov/
+Plugins for Imagej from https://imagej.nih.gov/
